@@ -1,0 +1,48 @@
+.language{
+  width: 1300px;
+  height: 40px;
+  display: flex;
+  margin-left: 50px;
+  margin-top: 10px;
+  
+
+  
+}
+.lang {
+  color: red; 
+}
+.text p{
+  margin-left: 4px;
+}
+
+
+.arrow-drop{
+  float: left;
+  margin-left: 6px;
+  margin-top: 5px;
+  color: black;
+  
+}
+.contactus p {
+margin-left: 890px;
+}
+span{
+  color: red;
+}
+
+
+
+nav{
+  background-color: red;
+  
+}
+
+ul.navbar-nav {
+  
+  margin-left: 650px;
+
+  
+}
+.nav-link .active a{
+  color: antiquewhite;
+} 
